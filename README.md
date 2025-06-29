@@ -2,6 +2,8 @@
 Analyzing Yelp businesses and reviews using Snowflake, AWS S3, SQL, and Sentiment Analysis
 
 [FINAL REPORT](https://github.com/Sumit-Karpe/Yelp_Business_reviews/blob/main/Yelp%20Reviews%20Report.pdf)
+
+
 Project Overview
 This project utilizes the Yelp Open Dataset—a rich resource containing real-world data on businesses, reviews, check-ins, and attributes. The primary objective was to gain insights into business performance, user interactions, review sentiments, and popular categories.
 
