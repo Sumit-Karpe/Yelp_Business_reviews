@@ -15,7 +15,7 @@ Python with TextBlob for sentiment analysis.
 
 
 
-Dataset Information
+## Dataset Information
 The Yelp Open Dataset includes JSON files covering:
 Business information (categories, locations, ratings)
 User reviews (ratings, texts, timestamps)
@@ -24,7 +24,7 @@ Attributes (hours, parking, ambience, etc.)
 
 Dataset size: ~8.65 GB uncompressed (business and review JSON files).
 
-Project Workflow
+## Project Workflow
 Data Acquisition & Preparation
 Downloaded dataset from Yelp.
 Partitioned large dataset into 10 equal segments.
