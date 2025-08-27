@@ -4,10 +4,10 @@ Analyzing Yelp businesses and reviews using Snowflake, AWS S3, SQL, and Sentimen
 [FINAL REPORT](https://github.com/Sumit-Karpe/Yelp_Business_reviews/blob/main/Yelp%20Reviews%20Report.pdf)
 
 
-Project Overview
+## Project Overview
 This project utilizes the Yelp Open Dataset—a rich resource containing real-world data on businesses, reviews, check-ins, and attributes. The primary objective was to gain insights into business performance, user interactions, review sentiments, and popular categories.
 
-Technologies Used
+## Technologies Used
 AWS S3 for storing and managing dataset partitions.
 Snowflake as the cloud data warehouse for efficient querying and analysis.
 SQL for data manipulation and exploratory analysis.
